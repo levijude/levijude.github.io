@@ -1,16 +1,14 @@
-.tektur-<uniquifier> {
+
+.body {
+    background-image: url(
+            "./newtile1.png") 
+            repeat center fixed;
   font-family: "Tektur", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
-}
-
-.body {
-    background: url(
-            "./newtile1.png") 
-            repeat center fixed;
 }
 
 a.button {
@@ -22,5 +20,5 @@ a.button {
     text-decoration: none;
 }
 .a409 {
-    background-color: linear-gradient(to right, #ff0000, #0000ff);
+    background: linear-gradient(to right, #ff0000, #0000ff);
 }
