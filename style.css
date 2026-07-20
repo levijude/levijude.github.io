@@ -1,8 +1,17 @@
+.body {
+    background: url(
+            "./newtile1.png") 
+            repeat center fixed;
+}
+
 a.button {
     padding: 1px 6px;
     border: 1px outset buttonborder;
-    border-radius: 3px;
-    color: buttontext;
-    background-color: buttonface;
+    border-radius: 7px;
+    color: yellow;
+    background-color: magenta;
     text-decoration: none;
+}
+.a409 {
+    background-color: linear-gradient(to right, #ff0000, #0000ff);
 }
