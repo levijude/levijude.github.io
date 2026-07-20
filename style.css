@@ -1,3 +1,12 @@
+.tektur-<uniquifier> {
+  font-family: "Tektur", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
 .body {
     background: url(
             "./newtile1.png") 
